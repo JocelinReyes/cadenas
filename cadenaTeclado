@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main(){
+    char cad[10];
+    int i;
+    printf("Introduce una palabra \n");
+    scanf("%s", cad);
+    printf("\n%s\n", cad);
+    return 0;
+}
