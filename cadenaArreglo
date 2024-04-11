@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main() {
+    char cad[]="es una cadena";
+    printf("%s \n", cad);
+    return 0;
+}
